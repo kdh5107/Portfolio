@@ -212,7 +212,7 @@ p {
   transition: all var(--animation-duration) ease;
 }
 
-.major__icon :hover {
+.major__icon:hover i {
   color: var(--color-pink);
   transform: rotate(-30deg) scale(1.1);
 }
